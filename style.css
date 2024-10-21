@@ -37,6 +37,7 @@ label {
 #article {
     border: gainsboro 3px solid;
     display: none;
+    flex-direction: column;
     flex-wrap: wrap;
     color: white;
     background: rgb(2,0,36);
